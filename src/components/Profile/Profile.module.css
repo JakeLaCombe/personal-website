@@ -1,0 +1,9 @@
+.profileImg {
+  border-radius: 100px;
+  border: #fff solid 1px;
+}
+
+.profileContent {
+  margin-left: 1rem;
+  color: white;
+}

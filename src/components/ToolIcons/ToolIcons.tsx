@@ -10,7 +10,7 @@ export const ToolIcons = () => {
     <div style={{ marginTop: "4em" }}>
       <AppContainer>
         <div style={{ display: "flex", justifyContent: "space-between" }}>
-          <img src={aws} width="256" height="100"></img>
+          <img src={aws} width="167" height="100"></img>
           <img src={nodejs} width="150" height="100"></img>
           <img src={openai} width="100" height="100"></img>
           <img src={typescript} width="100" height="100"></img>
